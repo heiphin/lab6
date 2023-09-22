@@ -1,0 +1,27 @@
+.table1 {
+    border-radius: 5px;
+    width: 100% ;
+}
+.h11 {
+    text-align: center;
+}
+.h111 {
+    margin: 60px;
+}
+.div1 {
+    width: calc(100%);
+    color: #282728;
+}
+.dvv {
+    height: 50%;
+}
+.form1 {
+    width: 100%; 
+    max-width: 400px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    border: 1px solid #ccc;
+}
+.centerr {
+    align-items: center;
+}
